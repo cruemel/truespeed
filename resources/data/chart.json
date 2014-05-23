@@ -1,0 +1,41 @@
+[ 
+     {
+		"id" : 1,
+		"transport" : "car",
+		"costs" : 1,
+		"spendings" : 1,
+		"upkeeping" : 1, 
+		"vehicletotal" : 1,
+		"waytotal" : 1,
+		"timeway" : 1, 
+		"timework" : 1,
+		"timetotal" : 1,
+		"speed" : 1
+    },
+     {
+    	"id": 2,
+		"transport" : "bike",
+		"costs" : 1,
+		"spendings" : 1,
+		"upkeeping" : 1, 
+		"vehicletotal" : 1,
+		"waytotal" : 1,
+		"timeway" : 1, 
+		"timework" : 1,
+		"timetotal" : 1,
+		"speed" : 1
+    },
+    {
+    	"id" : 3,
+		"transport" : "public transport",
+		"costs" : 1,
+		"spendings" : 1,
+		"upkeeping" : 1, 
+		"vehicletotal" : 1,
+		"waytotal" : 1,
+		"timeway" : 1, 
+		"timework" : 1,
+		"timetotal" : 1,
+		"speed" : 1
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "destination_addresses" : [
+    "Berlin, Deutschland"
+  ],
+  "origin_addresses" : [
+    "Hamburg, Deutschland"
+  ],
+  "rows" : [
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "288 km",
+            "value" : 287795
+          },
+          "duration" : {
+            "text" : "2 Stunden, 42 Minuten",
+            "value" : 9711
+          },
+          "status" : "OK"
+        }
+      ]
+    }
+  ],
+  "status" : "OK"
+}
