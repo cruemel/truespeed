@@ -1,23 +1,20 @@
 [
   {
-    "id" : 1,
     "name" : "Mario",
-    "vehicles" : 1,
-     "ways" : 1,
-    "times" : 1
+    "vehicle" : 1,
+     "way" : 1,
+    "time" : 1
   },
   {
-    "id" : 2,
     "name" : "Daisy",
-    "vehicles" : 2,
-    "ways" : 2,
-    "times" : 2
+    "vehicle" : 2,
+    "way" : 2,
+    "time" : 2
   },
   {
-    "id" : 3,
     "name" : "You",
-    "vehicles" : 3,
-    "ways" : 3,
-    "times" : 3
+    "vehicle" : 3,
+    "way" : 3,
+    "time" : 3
   }
 ]
